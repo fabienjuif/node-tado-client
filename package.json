@@ -1,7 +1,7 @@
 {
-    "name": "node-tado-client",
-    "version": "0.10.0",
-    "description": "A Tado client for nodejs",
+    "name": "@fabienjuif/node-tado-client",
+    "version": "0.11.0",
+    "description": "A Tado client for nodejs in TS",
     "main": "build/index.js",
     "types": "build/index.d.ts",
     "dependencies": {
@@ -32,15 +32,14 @@
     },
     "keywords": [
         "tado",
-        "tado-api"
+        "tado-api",
+        "ts",
+        "typescript"
     ],
     "author": "Matt Davis <mattdavis90@googlemail.com>",
     "contributors": [
         "Fabien JUIF <fabien.juif@gmail.com>"
     ],
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/mattdavis90/node-tado-client/issues"
-    },
-    "homepage": "https://github.com/mattdavis90/node-tado-client#readme"
+    "homepage": "https://github.com/fabienjuif/node-tado-client"
 }
